@@ -2,6 +2,6 @@
 *.bat text eol=crlf
 *.jar binary
 
-
+*.html linguist-detectable=false
 *.java linguist-language=Java
 *.java linguist-detectable=true
